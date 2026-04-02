@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://collabboard-real-time-collaborative.onrender.com/api';
+const API_BASE_URL = 'https://realtime-whiteboard-web-application.onrender.com/api';
 
 const getAuthHeaders = () => {
     const token = localStorage.getItem('token');
